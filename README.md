@@ -27,7 +27,7 @@ Chaque dossier correspond à un projet spécifique :
 - **Matplotlib / Seaborn** → visualisation
 - **Scikit-learn** → modèles ML classiques
 - **TensorFlow / Keras** → réseaux de neurones
-- **PyTorch** (optionnel) → deep learning avancé
+- **PyTorch**  → deep learning avancé
 - **NLTK / SpaCy / Transformers** → NLP
 
 
