@@ -1,7 +1,7 @@
 
 #  Brain Tumor Detection with YOLOv8 and ML Classifier
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on **brain tumor detection and classification** using a combination of:
 - **YOLOv8 (Ultralytics)** for object detection and tumor localization.
 - **Feature extraction** from detected regions of interest (ROIs).
@@ -24,7 +24,7 @@ The dataset used is the **Medical Image Dataset - Brain Tumor Detection** availa
 4. `pituitary_tumor`
 
 
-## ⚙️ Installation
+##  Installation
 ```bash
 pip install ultralytics
 pip install xgboost
@@ -72,7 +72,7 @@ For each detected tumor, the following features are extracted:
   - Classification report (precision, recall, F1-score)
 
 
-## 📊 Results
+##  Results
 - **Accuracy** is printed after training.( > 90%)
 - **Classification report** provides detailed metrics for each tumor class.
 - Heatmap of feature correlations with `class_id` is visualized using `seaborn`.
@@ -89,7 +89,7 @@ For each detected tumor, the following features are extracted:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository or open the Kaggle notebook.
 2. Install dependencies:
    ```bash
